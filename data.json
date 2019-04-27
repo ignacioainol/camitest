@@ -1,0 +1,18 @@
+{
+    "notas":[{
+            "titulo": "noticia 1",
+            "imagen": "http://images.vertele.eldiario.es/2019/03/27/todo-series/Futurama_2107299325_13471054_660x371.jpg",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum cupiditate id consectetur alias sapiente iure repellendus adipisci explicabo ad quos quo nisi mollitia quae ea, illum doloribus aliquam nihil unde."
+        },
+        {
+            "titulo": "noticia 2",
+            "imagen": "http://images.vertele.eldiario.es/2019/03/27/todo-series/Futurama_2107299325_13471054_660x371.jpg",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum cupiditate id consectetur alias sapiente iure repellendus adipisci explicabo ad quos quo nisi mollitia quae ea, illum doloribus aliquam nihil unde."
+        },
+        {
+            "titulo": "noticia 3",
+            "imagen": "http://images.vertele.eldiario.es/2019/03/27/todo-series/Futurama_2107299325_13471054_660x371.jpg",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum cupiditate id consectetur alias sapiente iure repellendus adipisci explicabo ad quos quo nisi mollitia quae ea, illum doloribus aliquam nihil unde."
+        }
+    ]
+}
